@@ -1,13 +1,14 @@
 # Analyse-de-Tweets
-Filère: L2 double licence sciences de la vie informatique  
+Filière: L2 double licence sciences de la vie informatique  
 Matière: IN304 développement d'applications en Python  
 Réalisé par: Inès MANOUR et Sofia TERKI  
+Année scolaire: 2022/2023
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Le but de ce projet est de créer une plateforme fictive, appelée InPoDa,  pour l’analyse de données de réseaux sociaux. 
    
-   
+---------------------------------------------------------------------------------------------------------------------------------------------------
    
 **InPoDa propose un ensemble des opérations de traitement de données y compris:**  
 • Identification de l’auteur de la publication  
