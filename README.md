@@ -1,6 +1,5 @@
 # Analyse-de-Tweets
-***On considère InPoDA, une plateforme pour l’analyse de données de réseaux sociaux. InPoDa
-est une plateforme fictive.***
+## On considère InPoDA, une plateforme pour l’analyse de données de réseaux sociaux. InPoDa est une plateforme fictive.
 
 Voici les différentes fonctionnalités d'InPoDa:
 
@@ -12,6 +11,7 @@ Voici les différentes fonctionnalités d'InPoDa:
 Vous pouvez utiliser le module « textblob ».  
 • Identification du/des topics de la publication   
   
+    
 **D’autres opérations d’analyse de données sont également proposés par InPoDa :**  
 • Top K hashtags (k est un paramètre passé par l’utilisateur)  
 • Top K utilisateurs  
