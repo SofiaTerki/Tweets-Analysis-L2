@@ -4,7 +4,7 @@ est une plateforme fictive.***
 
 Voici les différentes fonctionnalités d'InPoDa:
 
--InPoDa propose un ensemble des opérations de traitement de données y compris:
+**InPoDa propose un ensemble des opérations de traitement de données y compris:**/n
 • Identification de l’auteur de la publication 
 • Extraction de la liste de hashtags de la publication
 • Extraction de la liste des utilisateurs mentionnés dans la publication
@@ -12,7 +12,7 @@ Voici les différentes fonctionnalités d'InPoDa:
 Vous pouvez utiliser le module « textblob ». 
 • Identification du/des topics de la publication 
 
--D’autres opérations d’analyse de données sont également proposés par InPoDa : 
+**D’autres opérations d’analyse de données sont également proposés par InPoDa :**/n
 • Top K hashtags (k est un paramètre passé par l’utilisateur)
 • Top K utilisateurs
 • Top K utilisateurs mentionnés
