@@ -1,5 +1,9 @@
 # Analyse-de-Tweets
-### On considère InPoDA, une plateforme pour l’analyse de données de réseaux sociaux. InPoDa est une plateforme fictive dont voici les différentes fonctinnalités.
+Filère: L2 double licence sciences de la vie informatique  
+Matière: IN304 développement d'applications en Python  
+Réalisé par: Inès MANOUR et Sofia TERKI  
+
+### On considère InPoDA, une plateforme pour l’analyse de données de réseaux sociaux. InPoDa est une plateforme fictive.
    
    
    
