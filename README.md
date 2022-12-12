@@ -1,8 +1,8 @@
 # Analyse-de-Tweets
-Filière: L2 double licence sciences de la vie informatique  
-Matière: IN304 développement d'applications en Python  
-Réalisé par: Inès MANOUR et Sofia TERKI  
-Année scolaire: 2022/2023
+**Filière:** L2 double licence sciences de la vie informatique  
+**Matière:** IN304 développement d'applications en Python  
+***Réalisé par:*** Inès MANOUR et Sofia TERKI  
+**Année scolaire:** 2022/2023
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
